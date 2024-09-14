@@ -1,4 +1,2 @@
 # Socialmediaanalytics
-Fetch comments from Reddit and analyse
-Data exploration
-Wordcloud
+Fetch comments from Reddit and analyse, Data exploration, Wordcloud, Sentiment Analysis
